@@ -20,7 +20,7 @@ public class FxRectangle extends Application {
    private double stageHt, stageWd, midX, midY;
     @Override
     public void start(Stage primaryStage) {
-        primaryStage.setTitle("This is FX rectangle project"); //changed Title
+        primaryStage.setTitle("This is FX rectangle project"); //changed Title test git
         
         //create a group, all GUI elements will be added to this group
         //the group is then added to primaryStage
