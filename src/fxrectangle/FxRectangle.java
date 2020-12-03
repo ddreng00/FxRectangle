@@ -25,7 +25,7 @@ public class FxRectangle extends Application {
         //create a group, all GUI elements will be added to this group
         //the group is then added to primaryStage
         Group grp = new Group();
-        Scene newScene = new Scene(grp, 600, 600, Color.BURLYWOOD); //changed size and colour
+        Scene newScene = new Scene(grp, 600, 600, Color.PURPLE); //changed size and colour
         Rectangle rect = new Rectangle();
         stageHt = newScene.getHeight();
         stageWd = newScene.getWidth();
